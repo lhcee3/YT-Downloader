@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Jewish",
-  description: "Cause they grt converted lol",
+  title: "Youtube Video Downloader",
+  description: "say no to ad-revenue. jk",
 };
 
 export default function RootLayout({
